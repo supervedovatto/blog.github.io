@@ -1,0 +1,23 @@
+  [[main]]
+  name = "Home"
+  identifier = "main"
+  weight = 100
+  url = "/pt"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/pt/post"
+
+  [[main]]
+  name = "Sobre"
+  weight = 300
+  identifier = "about"
+  url = "/pt/about"
+
+  [[main]]
+  name = "Contato"
+  weight = 400
+  identifier = "contact"
+  url = "/pt/contact"

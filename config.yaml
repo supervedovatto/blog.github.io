@@ -1,0 +1,16 @@
+baseURL: https://supervedovatto.github.io/
+languageCode: pt
+DefaultContentLanguage: pt
+title: Blog do Professor Thiago VedoVatto
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+publishDir: "."
